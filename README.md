@@ -53,7 +53,6 @@ lsoys_task/
 ├── index.html          # Main game interface
 ├── styles.css          # Custom animations & responsive design
 ├── game.js            # Core game logic
-├── documentation.html  # Complete project documentation
 └── README.md          # This file
 ```
 
@@ -97,14 +96,7 @@ The game uses a class-based architecture with clean separation of concerns:
 - Edge 79+
 - Mobile browsers
 
-## 🚀 Deployment
 
-Perfect for static hosting platforms:
-
-- **Netlify** (Recommended)
-- **Vercel**
-- **GitHub Pages**
-- **Surge.sh**
 
 ## 🤝 Contributing
 
@@ -129,4 +121,3 @@ MIT License - feel free to use this project for learning or personal use.
 
 ---
 
-**Built with ❤️ using vanilla web technologies**
